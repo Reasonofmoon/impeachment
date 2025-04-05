@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/impeachment/static/css/main.043d4ed8.css",
+    "main.css": "/impeachment/static/css/main.f7e2dbcc.css",
     "main.js": "/impeachment/static/js/main.6278cec6.js",
     "index.html": "/impeachment/index.html"
   },
   "entrypoints": [
-    "static/css/main.043d4ed8.css",
+    "static/css/main.f7e2dbcc.css",
     "static/js/main.6278cec6.js"
   ]
 }
